@@ -560,7 +560,7 @@ padding-top: 20px;
     }
     
     .burger-menu.active span:nth-child(1) {
-        transition: all 0.2s ease;
+        transition: all 0.1s ease;
         z-index: 1;
         transform: translate(6px, -1px) rotate(45deg);
         transform-origin: left bottom;
